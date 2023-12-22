@@ -1,8 +1,10 @@
 # Nom du Jeu
 
+[LATER]
+
 ## Synopsis
 
-*Nom du Jeu* est un jeu solo en 2D alliant les genres du dungeon crawler, du jeu de gacha et de la gestion de ville. Les joueurs s'aventureront dans des donjons générés aléatoirement, combattront des monstres pour obtenir de l'or, et utiliseront ce trésor pour débloquer de nouveaux personnages à travers un système de gacha captivant. En parallèle, les joueurs devront gérer et améliorer une ville ou un établissement, renforçant ainsi leurs capacités et développant une histoire immersive.
+Jeu solo en 2D alliant les genres du dungeon crawler, du jeu de gacha et de la gestion de ville. Les joueurs s'aventureront dans des donjons générés aléatoirement, combattront des monstres pour obtenir de l'or, et utiliseront ce trésor pour débloquer de nouveaux personnages à travers un système de gacha captivant. En parallèle, les joueurs devront gérer et améliorer une ville ou un établissement, renforçant ainsi leurs capacités et développant une histoire immersive.
 
 ## Fonctionnalités Principales
 
@@ -18,16 +20,15 @@
 
 ## Captures d'Écran
 
-[Insérez des liens vers des captures d'écran ou des aperçus de votre jeu ici.]
+[LATER]
 
 ## Comment Commencer
 
-[Expliquez comment cloner, configurer et exécuter le projet localement pour les contributeurs potentiels.]
+[LATER]
 
 ## Contributions
 
-[Indiquez comment les contributeurs peuvent participer au projet, les directives de développement, et comment soumettre des pull requests.]
-
+Si vous savez faire du pixel art <3
 ## Licence
 
-[Choisissez une licence open source appropriée pour votre projet.]
+[LATER]
