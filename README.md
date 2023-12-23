@@ -32,3 +32,14 @@ Si vous savez faire du pixel art <3
 ## Licence
 
 [LATER]
+
+
+### IDEA
+- [Ennemy]
+    -[Squelette]
+    -[Ennemy détectant le joueur avec ces déplacements]
+    
+- [ ] 1.0.0
+    Version jouable avec les fonctionnalités principales
+  - [ ] 1.0.1
+  - [ ] 1.0.2
