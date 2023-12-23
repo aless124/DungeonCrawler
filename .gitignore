@@ -84,4 +84,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 # Assets folder
-../Assets/*
+*  
